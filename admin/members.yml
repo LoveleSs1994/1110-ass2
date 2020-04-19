@@ -1,0 +1,11 @@
+# List the membership of this group.  (Remove entries if you have fewer
+# than three members.)
+#
+
+members:
+  - name: Ziyi Xue
+    uid: u6810446
+  - name: Brendan Meyer
+    uid: u1014719
+  - name: Jinwen Zhu
+    uid: u6108702
